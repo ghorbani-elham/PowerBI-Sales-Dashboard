@@ -28,3 +28,10 @@ This project demonstrates Business Intelligence development skills including ETL
 
 ### Customer Analysis
 ![Customer](screenshots/06_Customer.PNG)
+
+## Key Performance Indicators (KPIs)
+
+- **Profit Margin**: Calculated as Profit / Sales to evaluate overall profitability.
+- **Revenue per Product (AOV)**: Measures average revenue generated per product.
+- **Sales Growth**: Year-over-Year growth analysis using MDX calculations.
+- **Customer Analysis**: Performance segmented by customer dimension.
