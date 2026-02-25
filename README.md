@@ -15,3 +15,16 @@ This project demonstrates Business Intelligence development skills including ETL
 
 ## Status
 🚧 Sample portfolio project
+## Dashboard Preview
+
+### Global Overview
+![Global](screenshots/01_Global.PNG)
+
+### Regional Analysis
+![Region](screenshots/02_Region.PNG)
+
+### Product Analysis
+![Product](screenshots/05_Product.PNG)
+
+### Customer Analysis
+![Customer](screenshots/06_Customer.PNG)
