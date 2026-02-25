@@ -32,6 +32,13 @@ This project demonstrates Business Intelligence development skills including ETL
 ## Key Performance Indicators (KPIs)
 
 - **Profit Margin**: Calculated as Profit / Sales to evaluate overall profitability.
-- **Revenue per Product (AOV)**: Measures average revenue generated per product.
 - **Sales Growth**: Year-over-Year growth analysis using MDX calculations.
 - **Customer Analysis**: Performance segmented by customer dimension.
+
+### Regional Performance Analysis
+
+### Regional Performance Analysis
+
+- **AOV (Average Order Value)** is visualized using an Area Chart to highlight both trend and magnitude over time.
+- This visualization emphasizes regional contribution and fluctuations in revenue patterns.
+- AOV is calculated as Total Revenue divided by Total Orders.
