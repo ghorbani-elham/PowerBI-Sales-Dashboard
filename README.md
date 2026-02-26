@@ -38,11 +38,11 @@ This project demonstrates an end-to-end Business Intelligence solution:
 
 ## SSIS Package Design
 
-![SSIS](screenshots/ssis/Load_Data_SSIS.png)
+![SSIS](screenshots/Load_Data_SSIS.png)
 
 ## SSAS Cube Structure
 
-![SSAS](screenshots/ssas/SSAS_Star_Schema_DW.png)
+![SSAS](screenshots/SSAS_Star_Schema_DW.png)
 
 ## Key Performance Indicators (KPIs)
 
