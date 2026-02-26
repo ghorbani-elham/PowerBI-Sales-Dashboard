@@ -1,7 +1,14 @@
 # PowerBI Sales Dashboard Project
 
 ## Overview
-This project demonstrates Business Intelligence development skills including ETL processes, cube modeling, MDX KPI calculations, and interactive reporting.
+
+This project demonstrates an end-to-end Business Intelligence solution:
+
+- ETL process implemented in SSIS
+- Star schema data warehouse design
+- SSAS cube development
+- MDX KPI calculations
+- Power BI dashboard using Live Connection to the cube
 
 ## Technologies Used
 - SSAS
@@ -37,8 +44,6 @@ This project demonstrates Business Intelligence development skills including ETL
 
 ### Regional Performance Analysis
 
-### Regional Performance Analysis
-
-- **AOV (Average Order Value)** is visualized using an Area Chart to highlight both trend and magnitude over time.
-- This visualization emphasizes regional contribution and fluctuations in revenue patterns.
-- AOV is calculated as Total Revenue divided by Total Orders.
+- Interactive Region slicer filters cube data dynamically.
+- AOV is visualized using an Area Chart to show yearly trends.
+- Dashboard is built using Live Connection to SSAS, ensuring real-time cube-driven analytics.
