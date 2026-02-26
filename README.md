@@ -38,7 +38,7 @@ This project demonstrates an end-to-end Business Intelligence solution:
 
 ## SSIS Package Design
 
-![SSIS](screenshots/ssis/Load Data_SSIS.png)
+![SSIS](screenshots/ssis/Load_Data_SSIS.png)
 
 ## SSAS Cube Structure
 
