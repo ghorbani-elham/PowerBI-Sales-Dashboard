@@ -42,7 +42,7 @@ This project demonstrates an end-to-end Business Intelligence solution:
 
 ## SSAS Cube Structure
 
-![SSAS_Star_Schema_DW](screenshots/SSAS_Star_Schema_DW.png)
+![SSAS_Star_Schema_DW](screenshots/SSAS_Star_Schema_DW.PNG)
 
 ## Key Performance Indicators (KPIs)
 
