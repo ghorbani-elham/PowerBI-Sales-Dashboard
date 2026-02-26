@@ -36,6 +36,14 @@ This project demonstrates an end-to-end Business Intelligence solution:
 ### Customer Analysis
 ![Customer](screenshots/06_Customer.PNG)
 
+## SSIS Package Design
+
+![SSIS](screenshots/ssis/Load Data_SSIS.png)
+
+## SSAS Cube Structure
+
+![SSAS](screenshots/ssas/SSAS_Star_Schema_DW.png)
+
 ## Key Performance Indicators (KPIs)
 
 - **Profit Margin**: Calculated as Profit / Sales to evaluate overall profitability.
