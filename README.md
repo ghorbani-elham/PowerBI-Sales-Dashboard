@@ -55,3 +55,8 @@ This project demonstrates an end-to-end Business Intelligence solution:
 - Interactive Region slicer filters cube data dynamically.
 - AOV is visualized using an Area Chart to show yearly trends.
 - Dashboard is built using Live Connection to SSAS, ensuring real-time cube-driven analytics.
+
+## 📂 Project File
+
+Power BI file is available in this repository:
+- Sales_Dashboard.pbix
